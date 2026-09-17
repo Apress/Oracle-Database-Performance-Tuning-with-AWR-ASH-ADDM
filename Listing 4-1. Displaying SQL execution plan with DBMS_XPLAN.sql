@@ -1,0 +1,1 @@
+SELECT * FROM DBMS_XPLAN.DISPLAY_CURSOR('gkxxkghxubh1a', format => '+ADAPTIVE');
